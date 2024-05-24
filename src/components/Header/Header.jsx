@@ -10,7 +10,7 @@ const Header = () => {
             <Link to="/">
                 <img src={Logo} alt="logo" className='logo w-28' />
             </Link>
-          <ul className='flex gap-5 font-semibold'>
+          <ul className='flex gap-5 text-lg'>
               <Link to='/'>Home</Link>
               <Link to="about">WhoAmI</Link>
               <Link to="project">Projects</Link>
