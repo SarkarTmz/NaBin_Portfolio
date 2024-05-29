@@ -49,7 +49,50 @@ const About = () => {
             </div>
             
           </div>
+
+          
         </div>
+
+
+        <div className="skill">
+          <h1 className='mt-5 text-lg font-semibold'>Skills</h1>
+          <div className="skill__wrapper">
+            <div className="skill__card">
+              <img src={logo} alt="" />
+              <p>Graphics Dsiner</p>
+            </div>
+            <div className="skill__card">
+              <img src={logo} alt="" />
+              <p>Graphics Dsiner</p>
+            </div>
+            <div className="skill__card">
+              <img src={logo} alt="" />
+              <p>Graphics Dsiner</p>
+            </div>
+            
+            <div className="skill__card">
+              <img src={logo} alt="" />
+              <p>Graphics Dsiner</p>
+            </div>
+            
+            <div className="skill__card">
+              <img src={logo} alt="" />
+              <p>Graphics Dsiner</p>
+            </div>
+            
+            <div className="skill__card">
+              <img src={logo} alt="" />
+              <p>Graphics Dsiner</p>
+            </div>
+            
+          </div>
+
+          
+        </div>
+
+
+
+
       </div>
     </div>
   )
